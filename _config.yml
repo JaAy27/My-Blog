@@ -1,5 +1,6 @@
 url: https://jaay27.github.io
-baseurl: /
+# baseurl: /
+baseurl: /My-Blog
 
 # Site settings
 title: Awesome Title
