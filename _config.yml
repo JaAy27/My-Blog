@@ -64,7 +64,7 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-baseurl: /agency-jekyll-theme/
+baseurl: /My-Blog
 
 # Site settings
 title: Awesome Title
