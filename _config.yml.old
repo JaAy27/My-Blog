@@ -1,6 +1,5 @@
 url: https://jaay27.github.io
-# baseurl: /
-baseurl: /My-Blog
+baseurl: /
 
 # Site settings
 title: Awesome Title
@@ -64,7 +63,7 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-baseurl: /My-Blog
+baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Awesome Title
@@ -128,5 +127,3 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-remote_theme: y7kim/agency-jekyll-theme
