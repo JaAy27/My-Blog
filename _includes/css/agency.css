@@ -870,3 +870,7 @@ ul.nav.navbar-nav.navbar-right{
         list-style-type: none;
         color: red;
 }
+
+.fa-chart-bar:before {
+    content: "\f080";
+}
